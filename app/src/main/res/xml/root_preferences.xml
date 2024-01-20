@@ -1,0 +1,25 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+<!--    <PreferenceCategory
+        app:title="@string/messages_header">
+
+        <EditTextPreference
+            app:key="signature"
+            app:title="@string/signature_title"
+            app:useSimpleSummaryProvider="true" />
+
+    </PreferenceCategory>-->
+
+    <PreferenceCategory app:title="Layout">
+
+
+        <SwitchPreferenceCompat
+            app:key="switch"
+            app:defaultValue="true"
+            app:summaryOff="List"
+            app:summaryOn="Gird"
+            app:title="Set Layout Gird or List" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

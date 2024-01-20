@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#1C1C1C</color>
+    <color name="my_light_primary">#0171F9</color>
+    <color name="secondary">#121312</color>
+    <color name="recyclerbg">#E4070126</color>
+    <color name="titleColor">#333333</color>
+    <color name="descriptionColor">#666666</color>
+    <color name="notecardbg">#000F47</color>
+    <color name="fabcolor">#1A2243</color>
+    <color name="buttonText">#FFFFFF</color>
+
+
+</resources>

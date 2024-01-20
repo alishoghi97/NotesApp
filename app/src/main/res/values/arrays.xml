@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?><!-- res/values/arrays.xml -->
+
+<resources>
+    <string-array name="notebook_entries">
+        <item>Personal</item>
+        <item>Work</item>
+        <item>Study</item>
+        <!-- Add more notebook options as needed -->
+    </string-array>
+
+    <string-array name="notebook_values">
+        <item>personal</item>
+        <item>work</item>
+        <item>study</item>
+        <!-- Use corresponding values for the notebook options -->
+    </string-array>
+    <!-- Reply Preference -->
+
+
+    <string-array name="notes_layout_entries">
+        <item>Grid</item>
+        <item>List</item>
+    </string-array>
+    <!-- Reply Preference -->
+    <string-array name="reply_entries">
+        <item>Reply</item>
+        <item>Reply to all</item>
+    </string-array>
+
+    <string-array name="reply_values">
+        <item>reply</item>
+        <item>reply_all</item>
+    </string-array>
+
+</resources>
