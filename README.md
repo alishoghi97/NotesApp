@@ -1,5 +1,3 @@
-Certainly! Let's update the app description to reflect the specific features you've mentioned:
-
 ### App Overview:
 Welcome to my first Android app hosted on GitHub! This application is built using the MVVM architecture, incorporating Room for local data persistence and LiveData for reactive UI updates. The key features of this app are centered around enhancing user experience with dark mode, a search functionality for notes, and the ability to switch between grid and list views.
 
