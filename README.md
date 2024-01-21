@@ -33,9 +33,5 @@ If you're interested in contributing to the project, consider the following:
 - **Fork and Pull Requests:**
   - Contribute directly to the codebase by forking the repository and submitting pull requests. Ensure your changes align with the project's guidelines.
 
-### Getting Started:
-
-If you're new to the project, follow these steps to set up the development environment:
 
 
-Feel free to customize this description further based on the specific implementation details and nuances of your app. Good luck with your continued development!
